@@ -1,1 +1,2 @@
 # FindPaths
+Final group project for TCSS 342 Data Structure at University of Washington Tacoma. We were to implement our own version of Dijkstra's algorithm, which is a greedy algorithm for finding the shortest between nodes in a graph. For the problem given by our professor, our data consists of given input files containing information about vertexes, and edges and their (distance) costs. The program should correctly produces a path between two locations in the graph that will result in the shortest path distance needed. 
